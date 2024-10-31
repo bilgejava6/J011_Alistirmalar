@@ -2,8 +2,10 @@ package com.muhammet;
 
 import java.util.Scanner;
 
-public class Main {
+public class Runner_Soru1 {
     public static void main(String[] args) {
+        // TODO: burayı anlamadım.
+
         /**
          * Okul Otomasyon,
          * Ders Listesi -> String[] dersList; // 5 ders girirlecek
